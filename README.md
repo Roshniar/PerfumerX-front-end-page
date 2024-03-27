@@ -1,2 +1,2 @@
-# PerfumerX-front-end-page
+# PerfumerX
 HTML , CSS
